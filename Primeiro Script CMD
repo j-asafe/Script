@@ -1,0 +1,107 @@
+C:\>vol
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 944F-36AA
+
+C:\>ver
+
+Microsoft Windows [versão 10.0.19045.5011]
+
+C:\>cls
+
+C:\>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 944F-36AA
+
+ Pasta de C:\
+
+15/05/2023  18:18    <DIR>          brModelo
+05/06/2023  14:58                 0 dfinstall.log
+13/11/2024  18:24    <DIR>          Intel
+13/11/2024  19:35    <DIR>          LanSchool Files
+25/05/2023  13:50    <DIR>          LDPlayer
+07/12/2019  06:14    <DIR>          PerfLogs
+05/06/2023  14:59        17.199.068 Persi0.sys
+15/10/2024  09:06    <DIR>          Program Files
+05/06/2023  14:58    <DIR>          Program Files (x86)
+15/05/2023  18:35    <DIR>          robocode
+15/05/2023  16:53    <DIR>          Users
+13/11/2024  18:56    <DIR>          Windows
+31/05/2023  18:52    <DIR>          xampp
+15/05/2023  18:19    <DIR>          ZoomIt
+               2 arquivo(s)     17.199.068 bytes
+              12 pasta(s)   313.196.867.584 bytes disponíveis
+
+C:\>mkdir Hugozinho Zezinho Luizinho
+
+C:\>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 944F-36AA
+
+ Pasta de C:\
+
+15/05/2023  18:18    <DIR>          brModelo
+05/06/2023  14:58                 0 dfinstall.log
+13/11/2024  22:06    <DIR>          Hugozinho
+13/11/2024  18:24    <DIR>          Intel
+13/11/2024  19:35    <DIR>          LanSchool Files
+25/05/2023  13:50    <DIR>          LDPlayer
+13/11/2024  22:06    <DIR>          Luizinho
+07/12/2019  06:14    <DIR>          PerfLogs
+05/06/2023  14:59        17.199.068 Persi0.sys
+15/10/2024  09:06    <DIR>          Program Files
+05/06/2023  14:58    <DIR>          Program Files (x86)
+15/05/2023  18:35    <DIR>          robocode
+15/05/2023  16:53    <DIR>          Users
+13/11/2024  18:56    <DIR>          Windows
+31/05/2023  18:52    <DIR>          xampp
+13/11/2024  22:06    <DIR>          Zezinho
+15/05/2023  18:19    <DIR>          ZoomIt
+               2 arquivo(s)     17.199.068 bytes
+              15 pasta(s)   313.196.670.976 bytes disponíveis
+
+C:\>cd hugozinho
+
+C:\Hugozinho>mkdir Argentina Brasil Uruguai
+
+C:\Hugozinho>cd/
+
+C:\>cd Zezinho
+
+C:\Zezinho>mkdir Argentina Brasil Uruguai
+
+C:\Zezinho>cd/
+
+C:\>cd Luizinho
+
+C:\Luizinho>mkdir Argentina Brasil Uruguai
+
+C:\Luizinho>cd/
+
+C:\>cd Hugozinho
+
+C:\Hugozinho>rd Argentina
+
+C:\Hugozinho>cd/
+
+C:\>cd Zezinho
+
+C:\Zezinho>rd Argentina
+
+C:\Zezinho>cd/
+
+C:\>cd Luizinho
+
+C:\Luizinho>rd Argentina
+
+C:\Luizinho>cd/
+
+C:\>dir > log.txt
+
+C:\>copy log.txt c:\Hugozinho
+        1 arquivo(s) copiado(s).
+
+C:\>copy log.txt c:\Luizinho
+        1 arquivo(s) copiado(s).
+
+C:\>copy log.txt c:\Zezinho
+        1 arquivo(s) copiado(s).
